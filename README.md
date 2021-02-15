@@ -1,6 +1,6 @@
 # Trabalho de Conclusão de Curso
 
-O texto abaixo é o resumo do meu TCC de Ciência da Computação da Universidade Paulista, que foi realizado junto a dois amigos da universidade.
+O parágrafo abaixo é o resumo do meu TCC de Ciência da Computação da Universidade Paulista, que foi realizado junto a dois amigos da universidade.
 
 Em razão da grande necessidade de armazenar as informações em formato digital, algumas empresas passaram a adquirir servidores. Atrelado a este fator, 
 tornou-se necessário também realizar o monitoramento do ambiente em que tais servidores se encontram a fim de evitar possíveis problemas relacionados aos 
