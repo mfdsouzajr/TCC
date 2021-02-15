@@ -11,4 +11,4 @@ uma baseada em um servidor Socket e outra em um servidor HTTP, ambos hospedados 
 de cada arquitetura. Os resultados mostram que, embora o servidor Socket exija um componente adicional acoplado ao sistema, este mostrou-se mais viável em 
 virtude de apresentar uma menor exigência computacional quando comparado ao servidor HTTP.
 
-Espero que você tenha entendido a ideia e, logo em seguida, possa ler mais sobre este trabalho acadêmico através do PDF que contém o TCC completo.
+Espero que você tenha entendido a ideia e, se estiver interessado, possa ler mais sobre este trabalho acadêmico através do PDF que contém o TCC completo.
